@@ -1,9 +1,6 @@
 package review;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.ListIterator;
+import java.util.*;
 
 public class ArrayListReview {
     public static void main(String[] args) {
@@ -37,8 +34,34 @@ public class ArrayListReview {
             System.out.println(s);
         }
 
+        System.out.println("Using lambda");
+        students.forEach(student -> System.out.println(student));
+
+        //sorting elements in teh list
+        Collections.sort(students, new sortByIdDesc());
+
+        Collections.sort(students, new sortByNameDesc());
+
 
 
 
     }
+
+    static class sortByIdDesc implements Comparator<Student> {
+
+        @Override
+        public int compare(Student o1, Student o2) {
+            return o2.id - o1.id;
+        }
+    }
+
+    static class sortByNameDesc implements Comparator<Student> {
+
+        @Override
+        public int compare(Student o1, Student o2) {
+            return o2.name.compareTo(o1.name);
+        }
+    }
 }
+
+
