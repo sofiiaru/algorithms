@@ -18,6 +18,9 @@ public class SinglyLinkedListApp {
         mylist.printNodes();
         mylist.addFirst(-1);
         mylist.printNodes();
+        System.out.println(mylist.getKthItemFromEnd(2));
+        mylist.removeKthItemFromEnd(2);
+        mylist.printNodes();
 
     }
 }

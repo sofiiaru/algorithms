@@ -73,9 +73,55 @@ public class MySinglyLinkedList {
 
     void addFirst(int data) {
         Node node = new Node(data);
-        node.next = head;
-        head = node;
+        if(isEmpty()) head = tail = node;
+        else {
+            node.next = head;
+            head = node;
+        }
+        size++;
 
+    }
+
+    public int getKthItemFromEnd(int k) {
+        Node pointer1 = head;
+        Node pointer2 = head;
+        for(int i =0; i < k-1; i++) {
+            pointer2 = pointer2.next;
+        }
+
+        while(pointer2.next != null) {
+            pointer1 = pointer1.next;
+            pointer2 = pointer2.next;
+        }
+        return pointer1.id;
+
+    }
+
+    public void removeKthItemFromEnd(int k) {
+        Node pointer1 = head;
+        Node pointer2 = head;
+        Node previous = head;
+        for(int i =0; i < k-1; i++) {
+            pointer2 = pointer2.next;
+        }
+
+        while(pointer2.next != null) {
+            previous = pointer1;
+            pointer1 = pointer1.next;
+            pointer2 = pointer2.next;
+        }
+
+        if(pointer1 == head){
+            head = pointer1.next;
+            pointer1.next = null;
+        } else if(pointer1 == tail) {
+            tail = previous;
+            previous.next = null;
+        }else {
+            previous.next = pointer1.next;
+            pointer1.next = null;
+        }
+        size--;
     }
 
 }
