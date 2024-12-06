@@ -21,7 +21,8 @@ public class MyStack<T> {
         size++;
     }
 
-    public T peek (){
+    public T peek () {
+        if(isEmpty()) throw new NoSuchElementException("Stack is empty");
         return (T) top.value;
     }
 
