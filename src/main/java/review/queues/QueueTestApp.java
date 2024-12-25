@@ -6,6 +6,7 @@ import java.util.Queue;
 
 public class QueueTestApp <T> {
     public static void main(String[] args) {
+        System.out.println(3%4);
         MyQueue<Integer> mq = new MyQueue<>();
         mq.enqueu(3);
         mq.enqueu(1);
