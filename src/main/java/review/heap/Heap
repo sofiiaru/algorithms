@@ -31,3 +31,16 @@ Index of right child = parent * 2 + 2
 
 Parent = (index - 1) / 2
 
+SORTING:
+
+sorting (heapsort)
+- insert array into heap
+- remove the root element every time and insert into array -> you get array sorted in desc order (if max heap was used)
+- time complexity nlogn + nlogn ==> nlogn
+
+OPTIMIZE:
+Converting an array to a heap in place --> HEAPIFY:
+- start from (n/2 -1) to index 0 --> exclude the leaves because they don't have children -> saves time because at least half of the heap are leaves
+- compare the greatest of children with the parent and bubbleUp() if needed
+- continue till 0 index
+

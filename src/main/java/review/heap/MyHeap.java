@@ -60,6 +60,9 @@ public class MyHeap {
     public int parentIndex( int childIndex) { return (childIndex-1)/2;}
     public boolean hasLeftChild(int index) { return leftChildIndex(index) < size;}
     public boolean hasRightChild(int index) { return rightChildIndex(index) < size;}
+    public int peek(){
+        return items[0];
+    }
     public int largerChildIndex(int index) {
         //no child
         if(!hasLeftChild(index)) return index;
