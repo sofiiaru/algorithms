@@ -24,4 +24,8 @@ Jump Search
 - check fewer elements by jumping ahead by fixed steps or skipping some elements in place of searching all elements
 - O(sqrt n) time complexity and O(1) space
 
+Exponential Search
+- start with a small range, if item doesn't exist double the search size
+- O(logn)
+
 
