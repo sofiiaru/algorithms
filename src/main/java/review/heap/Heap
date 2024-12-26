@@ -1,0 +1,33 @@
+Heap is a special type of binary tree with 2 properties:
+- it must be a complete tree: every level except the last is completely filled and levels are complete from left to right
+- value of every node must be equal or greater than the children (max heap) OR value of every nopde must be equal or smaller than
+the children (min heap)
+
+Heap is NOT a Binary Search Tree
+
+Heap is generally used
+- to implement priority queues (min heap)
+- sorting (heapsort)
+- graph algorithms (Djikstra shortest path)
+- selection algorithms
+
+
+Insertion process:
+1. add the element to the next available position to maintain complete tree property
+2. bubble up to maintain heap property
+
+Removal process:
+1. Always remove the root
+2. move the last leaf node into the root place to maintain complete tree property
+3. bubble down to maintain heap property
+
+
+Heaps can be implemented by using arrays as well as tree but since it is a complete binary tree we don't need a tree structure to
+implement it
+
+Formula:
+Index of left child = parent * 2 + 1
+Index of right child = parent * 2 + 2
+
+Parent = (index - 1) / 2
+
