@@ -7,7 +7,7 @@ Heap is NOT a Binary Search Tree
 
 Heap is generally used
 - to implement priority queues (min heap)
-- sorting (heapsort)
+- sorting (heapsort) - insert array into heap then remove the root element every time and insert into array -> sorted in desc order (if max heap)
 - graph algorithms (Djikstra shortest path)
 - selection algorithms
 
