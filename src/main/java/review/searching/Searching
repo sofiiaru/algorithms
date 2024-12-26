@@ -1,0 +1,18 @@
+Search algorithms
+
+-------Unordered collection or unknown order---------
+Linear Search (Sequential)
+- if collection is ordered or unordered is not known
+- scan complete array to see if element is there
+- time complexity O(n)
+
+--------Ordered collection----------
+Binary Search
+- need sorted array
+- repeatedly divides the search interval in half
+- O(log2n)
+
+Ternary Search
+- similar to Binary Search but instead of two parts the data is divided into 3 parts
+- O(log3n)
+- makes too many comparisons
