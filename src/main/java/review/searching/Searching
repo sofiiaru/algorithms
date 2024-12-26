@@ -16,3 +16,12 @@ Ternary Search
 - similar to Binary Search but instead of two parts the data is divided into 3 parts
 - O(log3n)
 - makes too many comparisons
+
+
+Jump Search
+- better than linear but worse than binary
+- for sorted arrays
+- check fewer elements by jumping ahead by fixed steps or skipping some elements in place of searching all elements
+- O(sqrt n) time complexity and O(1) space
+
+
