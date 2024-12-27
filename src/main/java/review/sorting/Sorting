@@ -32,3 +32,23 @@ Time complexity O(n^2) because O(n) passes and O(n) comparisons --> worse than b
 - O(n logn)
 - requires additional space!!!
 
+-- Quick Sort
+- choose a pivot and divide array into two parts: elements less than pivot, greater than pivot and pivot.
+- recursively sort left and right
+- combine
+- O(n^2)
+- Dual-pivot quicksort O(n logn)
+
+*************** Linear Time Sorting **********
+-- Bucket Sort Algorithms (bin sort)
+- generally used with floating-point values
+- not good for very large array
+- not in-place sorting algo
+- input must be distributed uniformly over a range
+
+--Radix Sort Algorithm
+- non-comparative
+- will iterate the number of times equal to the number of bits after the point
+- O(nd) n - size of array, d is the number of digits int hte largest number
+- not in-place
+
