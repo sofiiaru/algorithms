@@ -1,0 +1,4 @@
+******* TRIES ********** (Digital, Radix, Prefix)
+- kind of tree but not binary. Each child may have several nodes
+- generally used for auto-completion/search
+- O(L) where L is a length of word (insert, delete, lookup)
