@@ -1,5 +1,34 @@
-Brute Force
+
+************** Brute Force ***************
+
 -- Monkey Sort/ Stupid sort/ Bogo sort - shuffle until sorted
+
 -- Selection Sort - sorts an array by repeatedly finding the min element from unsorted part and putting it in the beginning (swap)
 Time complexity O(n^2) because O(n) passes and O(n) comparisons --> worse than bubble sort in best case;
+
 -- Bubble Sort
+- start from beginning and compare ith with irh+1 element
+- swap if needed
+- repeat first 2 steps arr.length times
+- O(n^2)
+
+*************** Decrease and Conquer *************
+- incremental (inductive) approach
+- can be top-down (recursive) and bottom-up (non-recursive)
+
+-- Insertion Sort - decrease by a const
+- array is virtualy split into sorted and unsorted part
+- values from unsorted part are picked and inserted into correct position in the sorted part
+- O(n^2)
+
+-- Binary Search - decrease by a const factor
+-- Euclidean Algorithm (GCD) - variable size decrease
+
+************** Divide and Conquer *************
+
+-- MergeSort
+- break down the list into smaller and smaller sublists
+- sort sublists and merge them to produce sorted sublists
+- O(n logn)
+- requires additional space!!!
+
