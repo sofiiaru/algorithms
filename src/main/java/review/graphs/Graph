@@ -1,0 +1,23 @@
+********** GRAPH ********
+- used to represent connected objects
+- to model the relationship
+- consist of nodes called vertices connected with edges
+
+Applications:
+- social networks
+- biological networks
+- product recommendations
+- neural networks
+- graph databases - Neo4J
+
+Types of graphs:
+- directed (edges have directions)
+- weighted graph (edges have weights)
+
+How to create graphs:
+- Adjacency Matrix
+linear
+
+- Adjacency List
+linked list or array list
+each node represents vertix
