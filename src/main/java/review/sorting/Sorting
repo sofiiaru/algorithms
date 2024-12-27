@@ -1,0 +1,5 @@
+Brute Force
+-- Monkey Sort/ Stupid sort/ Bogo sort - shuffle until sorted
+-- Selection Sort - sorts an array by repeatedly finding the min element from unsorted part and putting it in the beginning (swap)
+Time complexity O(n^2) because O(n) passes and O(n) comparisons --> worse than bubble sort in best case;
+-- Bubble Sort
