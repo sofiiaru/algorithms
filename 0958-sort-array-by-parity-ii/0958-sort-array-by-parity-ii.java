@@ -2,35 +2,25 @@ class Solution {
     public int[] sortArrayByParityII(int[] nums) {
         int i = 0;
         int j = 1;
+        int n = nums.length;
 
-        while(j<nums.length){
-            
-            if((isEven(i) && isEven(nums[i])) || 
-            (!isEven(i) && !isEven(nums[i]))) {
-                i++;j++;
+        while(i<n && j<n){
+            while(i < n && nums[i]%2 == 0){
+                i+=2;
             }
-            else if(isEven(i)){
-                if(isEven(nums[j])) {
-                    int temp = nums[i];
-                    nums[i++] = nums[j];
-                    nums[j] = temp;
-                    j=i+1;
-                }else j++;
+            while(j < n && nums[j]%2 != 0){
+                j+=2;
             }
-            else {
-                if(!isEven(nums[j])) {
-                    int temp = nums[i];
-                    nums[i++] = nums[j];
-                    nums[j] = temp;
-                    j=i+1;
-                }else j++;
-            }
+            if(i < n) swap(nums, i, j);
+           
         } 
         return nums;     
     }
 
-    public boolean isEven(int i){
-        return i%2 == 0? true:false;
+    public void swap(int[] nums, int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
  
 }
