@@ -4,15 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sofiiaru/algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 ## Design
 |  |
