@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/sofiiaru/algorithms/tree/master/0141-linked-list-cycle) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sofiiaru/algorithms/tree/master/0304-range-sum-query-2d-immutable) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sofiiaru/algorithms/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sofiiaru/algorithms/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
