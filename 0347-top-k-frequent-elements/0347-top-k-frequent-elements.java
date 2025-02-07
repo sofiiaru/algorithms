@@ -1,9 +1,6 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         int[] result = new int[k];
-        //iterate over nums, add to map<int, freq>
-        //values.sort
-        //last k values - find keys in map
 
         Map<Integer, Integer> map = new HashMap<>();
         for(int n: nums){
@@ -17,13 +14,10 @@ class Solution {
             int freq = list.get(list.size()-k);
             for(Map.Entry<Integer, Integer> entry: map.entrySet()) {
                 if(entry.getValue() == freq) {
-                    result[i] = entry.getKey();
-                    i++;
+                    result[i++] = entry.getKey();
                     k--;
                 }
-            }
-            
-            
+            }         
         }
         return result;
         
