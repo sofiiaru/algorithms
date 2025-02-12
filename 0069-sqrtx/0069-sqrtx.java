@@ -4,7 +4,7 @@ class Solution {
 
         int answer = -1;
         int left = 1;
-        int right = x;
+        int right = x/2;
 
         while(left<=right) {
             int middle = left + (right-left) /2;
