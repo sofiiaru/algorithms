@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sofiiaru/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sofiiaru/algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/sofiiaru/algorithms/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/sofiiaru/algorithms/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sofiiaru/algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sofiiaru/algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sofiiaru/algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sofiiaru/algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sofiiaru/algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/sofiiaru/algorithms/tree/master/0283-move-zeroes) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
