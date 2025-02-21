@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sofiiaru/algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sofiiaru/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sofiiaru/algorithms/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/sofiiaru/algorithms/tree/master/0443-string-compression) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sofiiaru/algorithms/tree/master/0049-group-anagrams) |
+| [0443-string-compression](https://github.com/sofiiaru/algorithms/tree/master/0443-string-compression) |
 ## Union Find
 |  |
 | ------- |
