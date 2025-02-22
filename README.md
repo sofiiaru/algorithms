@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sofiiaru/algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sofiiaru/algorithms/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/sofiiaru/algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sofiiaru/algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sofiiaru/algorithms/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sofiiaru/algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sofiiaru/algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sofiiaru/algorithms/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sofiiaru/algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
