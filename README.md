@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sofiiaru/algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sofiiaru/algorithms/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/sofiiaru/algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sofiiaru/algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sofiiaru/algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sofiiaru/algorithms/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sofiiaru/algorithms/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
