@@ -146,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sofiiaru/algorithms/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/sofiiaru/algorithms/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
