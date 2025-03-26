@@ -6,9 +6,12 @@ class Solution {
         boolean increasingFound = false;
         for(int i = 1; i< length; i++) {
             if(arr[i] == arr[i-1]) return false;
-            else if(arr[i] > arr[i-1] && !peakFound) increasingFound = true;
-            else if(arr[i] > arr[i-1] && peakFound) return false;
-            else if(arr[i] < arr[i-1] && !peakFound) peakFound = true;
+            if(!peakFound) {
+                if(arr[i] > arr[i-1]) increasingFound = true;
+                else if(arr[i] < arr[i-1])peakFound = true;
+            } else {
+                if(arr[i] > arr[i-1]) return false;
+            }
         }
         return peakFound && increasingFound;
     }
