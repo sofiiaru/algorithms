@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sofiiaru/algorithms/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sofiiaru/algorithms/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sofiiaru/algorithms/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/sofiiaru/algorithms/tree/master/0443-string-compression) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sofiiaru/algorithms/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/sofiiaru/algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sofiiaru/algorithms/tree/master/0077-combinations) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sofiiaru/algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
