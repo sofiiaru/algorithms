@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/sofiiaru/algorithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sofiiaru/algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sofiiaru/algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/sofiiaru/algorithms/tree/master/0739-daily-temperatures) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/sofiiaru/algorithms/tree/master/0978-valid-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sofiiaru/algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -168,4 +169,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sofiiaru/algorithms/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sofiiaru/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/sofiiaru/algorithms/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sofiiaru/algorithms/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
