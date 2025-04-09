@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sofiiaru/algorithms/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sofiiaru/algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sofiiaru/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sofiiaru/algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sofiiaru/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/sofiiaru/algorithms/tree/master/0239-sliding-window-maximum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sofiiaru/algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sofiiaru/algorithms/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sofiiaru/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/sofiiaru/algorithms/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sofiiaru/algorithms/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sofiiaru/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
