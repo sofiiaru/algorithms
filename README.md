@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sofiiaru/algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/sofiiaru/algorithms/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sofiiaru/algorithms/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/sofiiaru/algorithms/tree/master/0859-design-circular-deque) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/sofiiaru/algorithms/tree/master/0978-valid-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sofiiaru/algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sofiiaru/algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sofiiaru/algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sofiiaru/algorithms/tree/master/0304-range-sum-query-2d-immutable) |
+| [0859-design-circular-deque](https://github.com/sofiiaru/algorithms/tree/master/0859-design-circular-deque) |
 ## Matrix
 |  |
 | ------- |
@@ -79,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sofiiaru/algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sofiiaru/algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0859-design-circular-deque](https://github.com/sofiiaru/algorithms/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sofiiaru/algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sofiiaru/algorithms/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/sofiiaru/algorithms/tree/master/0859-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
