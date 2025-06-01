@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sofiiaru/algorithms/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/sofiiaru/algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sofiiaru/algorithms/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sofiiaru/algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sofiiaru/algorithms/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/sofiiaru/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sofiiaru/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sofiiaru/algorithms/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/sofiiaru/algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sofiiaru/algorithms/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sofiiaru/algorithms/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/sofiiaru/algorithms/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
