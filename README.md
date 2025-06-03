@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sofiiaru/algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sofiiaru/algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sofiiaru/algorithms/tree/master/0304-range-sum-query-2d-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/sofiiaru/algorithms/tree/master/0859-design-circular-deque) |
 ## Matrix
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sofiiaru/algorithms/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sofiiaru/algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -196,4 +198,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sofiiaru/algorithms/tree/master/0735-asteroid-collision) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
