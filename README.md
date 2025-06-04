@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/sofiiaru/algorithms/tree/master/0978-valid-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sofiiaru/algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sofiiaru/algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1961-maximum-ice-cream-bars](https://github.com/sofiiaru/algorithms/tree/master/1961-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sofiiaru/algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0958-sort-array-by-parity-ii](https://github.com/sofiiaru/algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sofiiaru/algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1961-maximum-ice-cream-bars](https://github.com/sofiiaru/algorithms/tree/master/1961-maximum-ice-cream-bars) |
 ## Design
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sofiiaru/algorithms/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/sofiiaru/algorithms/tree/master/0678-valid-parenthesis-string) |
+| [1961-maximum-ice-cream-bars](https://github.com/sofiiaru/algorithms/tree/master/1961-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/sofiiaru/algorithms/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
