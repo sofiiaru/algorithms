@@ -204,16 +204,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sofiiaru/algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sofiiaru/algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sofiiaru/algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sofiiaru/algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
