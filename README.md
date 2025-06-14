@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sofiiaru/algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/sofiiaru/algorithms/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sofiiaru/algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/sofiiaru/algorithms/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sofiiaru/algorithms/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/sofiiaru/algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sofiiaru/algorithms/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/sofiiaru/algorithms/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
